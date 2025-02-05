@@ -1,15 +1,7 @@
 #input
-n=int(input("digite el numero : "))
+num=int(input("ingrese un numero :"))
 
 #processing
-n%2==0
-
-if 
-
-n==0
-
-print:("es par")
-
-else
-
-print:("es impar")
+if num%2==0:
+    print("es par.") #output
+else: print("no es par.") #output    
