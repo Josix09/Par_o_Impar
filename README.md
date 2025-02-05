@@ -11,6 +11,7 @@ num%2=0 print("es par.") else: print("no es par.")
 ## output
 es par / es impar
 
-diseño ![diagrama de flujo](diagrama.png) "diagrama de flujo"
+# diseño
+ ![diagrama de flujo](diagrama.png) "diagrama de flujo"
 
 ## construcción
